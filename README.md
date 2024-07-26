@@ -1,7 +1,7 @@
 <b>Washington-Housing-Dashboard</b><br>
 
 <b>Overview</b><br>
-The WashingtonHousingDashboard repository contains an interactive Tableau dashboard that visualizes housing prices across Washington state. This project aims to provide insights into the real estate market by analyzing trends, patterns, and factors influencing housing prices in various regions of Washington.
+The Washington Housing Dashboard repository contains an interactive Tableau dashboard that visualizes housing prices across Washington state. This project aims to provide insights into the real estate market by analyzing trends, patterns, and factors influencing housing prices in various regions of Washington.
 
 <b>Problem Statement</b>>br>
 The real estate market in Washington, D.C., requires a strategic approach to engage stakeholders and enhance business opportunities. To address this need, an interactive dashboard has been designed to analyze the factors influencing house prices in Washington, D.C. This dashboard aims to provide insights into the average house prices, the distribution of prices, and how various attributes such as the number of bedrooms and bathrooms, square footage, and property conditions affect the real estate market. By leveraging this comprehensive analysis, stakeholders can make informed decisions and develop targeted strategies for the housing market in Washington, D.C.
